@@ -11,3 +11,7 @@ Cada pasta é um serviço separado (backend e frontend). Para configurar cada am
 # Banco de dados
 
 PostgreSQL. Para configuração do banco, acesse o arquivo knexfile.js no serviço backend e faça os ajustes conforme configuração do seu banco local.
+
+### Script para popular tabela IR
+
+É necessário executar o script "script tabela ir.sql" para popular a tabela para cálculo do IR.
