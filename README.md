@@ -7,3 +7,7 @@ Projeto para fixar os conhecimentos aprendidos no curso da cod3r (https://www.ud
 # Configuração
 
 Cada pasta é um serviço separado (backend e frontend). Para configurar cada ambiente, veja o seu respectivo README.
+
+# Banco de dados
+
+PostgreSQL. Para configuração do banco, acesse o arquivo knexfile.js no serviço backend e faça os ajustes conforme configuração do seu banco local.
